@@ -5,7 +5,7 @@
 		10%+ of downloads
 	4)Number of five transactions - active users.
 		30% of those who complete first transaction
-	5)Download - registration - first transaction  - second transaction
+	5)Download - registration - first transaction  - second transaction <- CTR
 		to see how many give up and where
 	6)Total transactions(€ and count)
 		self explanatory 
